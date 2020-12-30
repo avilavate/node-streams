@@ -1,7 +1,4 @@
-![](media/image1.png){width="6.805555555555555in"
-height="3.8283923884514435in"}
-
-Image by google images.
+https://avilavate123.medium.com/understanding-nodejs-streams-c3a67d6f4bee
 
 # What are streams?
 
